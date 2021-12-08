@@ -1,1 +1,1 @@
-# personal website (hosted on here for now)
+# personal website
